@@ -1,0 +1,224 @@
+{
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "fabric-0.17.2",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Cobblemon+",
+  "version": "",
+  "author": "",
+  "files": [
+    {
+      "projectID": 335493,
+      "fileID": 6662064,
+      "required": true
+    },
+    {
+      "projectID": 570368,
+      "fileID": 6848714,
+      "required": true
+    },
+    {
+      "projectID": 667299,
+      "fileID": 6662859,
+      "required": true
+    },
+    {
+      "projectID": 527334,
+      "fileID": 6662265,
+      "required": true
+    },
+    {
+      "projectID": 315811,
+      "fileID": 6530831,
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 6290412,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 6382649,
+      "required": true
+    },
+    {
+      "projectID": 428912,
+      "fileID": 5460550,
+      "required": true
+    },
+    {
+      "projectID": 531351,
+      "fileID": 5962881,
+      "required": true
+    },
+    {
+      "projectID": 574741,
+      "fileID": 6667175,
+      "required": true
+    },
+    {
+      "projectID": 511319,
+      "fileID": 6091019,
+      "required": true
+    },
+    {
+      "projectID": 406343,
+      "fileID": 5639104,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 5437294,
+      "required": true
+    },
+    {
+      "projectID": 676136,
+      "fileID": 5446920,
+      "required": true
+    },
+    {
+      "projectID": 521480,
+      "fileID": 6879693,
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 6213635,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 6780236,
+      "required": true
+    },
+    {
+      "projectID": 459857,
+      "fileID": 5850342,
+      "required": true
+    },
+    {
+      "projectID": 630104,
+      "fileID": 6292914,
+      "required": true
+    },
+    {
+      "projectID": 949555,
+      "fileID": 6743002,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 5810603,
+      "required": true
+    },
+    {
+      "projectID": 1103431,
+      "fileID": 6100813,
+      "required": true
+    },
+    {
+      "projectID": 634062,
+      "fileID": 5885733,
+      "required": true
+    },
+    {
+      "projectID": 308769,
+      "fileID": 6688121,
+      "required": true
+    },
+    {
+      "projectID": 596224,
+      "fileID": 5691544,
+      "required": true
+    },
+    {
+      "projectID": 1037459,
+      "fileID": 6131327,
+      "required": true
+    },
+    {
+      "projectID": 447673,
+      "fileID": 5913375,
+      "required": true
+    },
+    {
+      "projectID": 711539,
+      "fileID": 6347540,
+      "required": true
+    },
+    {
+      "projectID": 533097,
+      "fileID": 6501669,
+      "required": true
+    },
+    {
+      "projectID": 452046,
+      "fileID": 5738288,
+      "required": true
+    },
+    {
+      "projectID": 667464,
+      "fileID": 6347551,
+      "required": true
+    },
+    {
+      "projectID": 686911,
+      "fileID": 6745746,
+      "required": true
+    },
+    {
+      "projectID": 551736,
+      "fileID": 6044478,
+      "required": true
+    },
+    {
+      "projectID": 930207,
+      "fileID": 5650499,
+      "required": true
+    },
+    {
+      "projectID": 915902,
+      "fileID": 6653768,
+      "required": true
+    },
+    {
+      "projectID": 385587,
+      "fileID": 6515579,
+      "required": true
+    },
+    {
+      "projectID": 558905,
+      "fileID": 6394142,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 5729125,
+      "required": true
+    },
+    {
+      "projectID": 1055925,
+      "fileID": 5658753,
+      "required": true
+    },
+    {
+      "projectID": 975120,
+      "fileID": 5855528,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 6863226,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
